@@ -1,4 +1,4 @@
- [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.itm.ac.in%2Fblog%2Fintroduction-to-computer-science-and-engineering-a-dynamic-field-at-the-intersection-of-technology%2F&psig=AOvVaw3oDGtTHt35xnXW89QsKaDe&ust=1738882868118000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDg1dLRrYsDFQAAAAAdAAAAABAK)
+ [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsnu.edu.in%2Fblogs%2Fcomputer-science-engineering-the-intersection-of-creativity-and-technology%2F&psig=AOvVaw3oDGtTHt35xnXW89QsKaDe&ust=1738882868118000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDg1dLRrYsDFQAAAAAdAAAAABAT)
 <h1 align="center">Hi 👋, I'm Muhammed Sencer Ozturk</h1>
 <h3 align="center">Computer Engineering Student | Sharing My Projects & Experiences</h3>
 
