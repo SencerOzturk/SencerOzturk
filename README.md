@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **I am a curious and open-minded learner.**
 
-- 📫 How to reach me **muhammedsenceroztrk@gmail.comk**
+- 📫 How to reach me **muhammedsenceroztrk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
