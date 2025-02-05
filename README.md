@@ -1,4 +1,5 @@
-![Dizüstü Bilgisayar](https://images.pexels.com/photos/18105/pexels-photo.jpg)
+![Bilgisayar Ekranı](https://cdn.pixabay.com/photo/2015/01/21/14/14/apple-606761_1280.jpg)
+
 <h1 align="center">Hi 👋, I'm Muhammed Sencer Ozturk</h1>
 <h3 align="center">Computer Engineering Student | Sharing My Projects & Experiences</h3>
 
