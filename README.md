@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Muhammed Sencer Ozturk</h1>
 <h3 align="center">Computer Engineering Student | Sharing My Projects & Experiences</h3>
 
